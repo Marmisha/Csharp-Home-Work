@@ -1,6 +1,8 @@
 ﻿//Задача 2: Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
 //Console.Write("Привет, напиши какое-нибудь число, лучше длинное: ");
 
+Console.Clear();
+
 Console.Write("Введите число: ");
 string number = Console.ReadLine();
 Console.WriteLine($"Вы ввели {number}.");
