@@ -1,17 +1,26 @@
 ﻿//Задача 2: Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
 //Console.Write("Привет, напиши какое-нибудь число, лучше длинное: ");
 
-int MethodIntReadLine(string message)
-{
-    Console.Write(message);
-    string number = Console.ReadLine();
-    int numInt = int.Parse(number);
-    return numInt;
-} // Наша функция предлагает ввести число, съедает его в виде текста и превращает в integer
-
-
-int number = MethodIntReadLine("Введите число: ");
+Console.Write("Введите число: ");
+string number = Console.ReadLine();
 Console.WriteLine($"Вы ввели {number}.");
 
-int[,]matrix = new int [1,number];
-Console.Write(matrix);
+int length = number.Length;
+Console.WriteLine($"Количество знаков в числе: {length}.");
+
+int numberInt = int.Parse(number);
+int index = 0;
+int summary = 0; // пока 0
+int temporaryNum=0;
+for (index=0; index<length; index ++)
+{
+  
+temporaryNum  = numberInt%10;
+numberInt=numberInt/10;
+summary = summary+ temporaryNum;
+}
+
+Console.WriteLine($"Сумма цифр числа {number} равна {summary}.");
+
+
+
