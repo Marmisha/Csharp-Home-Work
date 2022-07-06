@@ -14,6 +14,7 @@ int[] CreateAndFillArray(int large, int min, int max)
 }
 
 
+
 void printArray(int[] arr)
 {
     for (int i = 0; i < arr.Length; i++)
@@ -27,11 +28,11 @@ void printArray(int[] arr)
 
 int[] myArray = CreateAndFillArray(5, 1, 9);
 printArray(myArray);
-FindEvenIndexNumSum(myArray);
+FindOddIndexNumSum(myArray);
+FindOddPositionNumSum(myArray);
 
 
-
-int FindEvenIndexNumSum(int[] arr) // Метод сложения чисел в массиве, стоящих на нечетных позициях (индексах)
+int FindOddIndexNumSum(int[] arr) // Метод сложения чисел в массиве, стоящих на нечетных позициях (индексах)
 {
 
     int sum = 0;
@@ -44,8 +45,28 @@ int FindEvenIndexNumSum(int[] arr) // Метод сложения чисел в 
             sum = sum + myArray[i];//для нечетного индекса увеличиваем сумму элементов
         }
     }
-    System.Console.WriteLine($"Сумма элементов, стоящих на позициях с нечетным индексом: {sum}");
+    System.Console.WriteLine($"Сумма элементов, имеющих нечетный индекс: {sum}");
     return sum;
 }
 
 
+
+
+int FindOddPositionNumSum(int[] arr) // Метод сложения чисел в массиве, стоящих на нечетных позициях (индексах)
+{
+
+    int sum = 0;
+    int RemainderOfDiv = 0;
+    for (int i = 0; i < myArray.Length; i++)
+    {
+        RemainderOfDiv = (i + 1) % 2;
+        if (RemainderOfDiv == 1) //  делаем вывод о нечетности индекса
+        {
+            sum = sum + myArray[i];//для нечетного индекса увеличиваем сумму элементов
+        }
+    }
+    System.Console.WriteLine($"Сумма элементов, стоящих на нечетных позициях: {sum}");
+    return sum;
+}
+
+System.Console.WriteLine("Не очень понятно задание, поэтому пусть будут оба варианта исчисления=)");
