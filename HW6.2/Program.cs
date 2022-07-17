@@ -4,7 +4,6 @@
 
 Console.Clear();
 
-
 double GetNumFromReadLine(string msg)
 {
     Console.Write(msg);
