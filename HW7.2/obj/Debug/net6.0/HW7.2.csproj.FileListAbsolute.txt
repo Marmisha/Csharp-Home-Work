@@ -1,0 +1,45 @@
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2\obj\Debug\net6.0\HW7.2.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2\obj\Debug\net6.0\HW7.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2\obj\Debug\net6.0\HW7.2.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2\obj\Debug\net6.0\HW7.2.AssemblyInfo.cs
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2\obj\Debug\net6.0\HW7.2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2\bin\Debug\net6.0\HW7.2.exe
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2\bin\Debug\net6.0\HW7.2.deps.json
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2\bin\Debug\net6.0\HW7.2.runtimeconfig.json
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2\bin\Debug\net6.0\HW7.2.dll
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2\bin\Debug\net6.0\HW7.2.pdb
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2\obj\Debug\net6.0\HW7.2.dll
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2\obj\Debug\net6.0\refint\HW7.2.dll
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2\obj\Debug\net6.0\HW7.2.pdb
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2\obj\Debug\net6.0\HW7.2.genruntimeconfig.cache
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2\obj\Debug\net6.0\ref\HW7.2.dll
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (var 1 mine not finished if index os out of array)\obj\Debug\net6.0\HW7.2.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (var 1 mine not finished if index os out of array)\obj\Debug\net6.0\HW7.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (var 1 mine not finished if index os out of array)\obj\Debug\net6.0\HW7.2.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (var 1 mine not finished if index os out of array)\obj\Debug\net6.0\HW7.2.AssemblyInfo.cs
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (var 1 mine not finished if index os out of array)\obj\Debug\net6.0\HW7.2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (var 1 mine not finished if index os out of array)\obj\Debug\net6.0\HW7.2.dll
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (var 1 mine not finished if index os out of array)\obj\Debug\net6.0\refint\HW7.2.dll
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (var 1 mine not finished if index os out of array)\obj\Debug\net6.0\HW7.2.pdb
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (var 1 mine not finished if index os out of array)\bin\Debug\net6.0\HW7.2.exe
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (var 1 mine not finished if index os out of array)\bin\Debug\net6.0\HW7.2.deps.json
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (var 1 mine not finished if index os out of array)\bin\Debug\net6.0\HW7.2.runtimeconfig.json
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (var 1 mine not finished if index os out of array)\bin\Debug\net6.0\HW7.2.dll
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (var 1 mine not finished if index os out of array)\bin\Debug\net6.0\HW7.2.pdb
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (var 1 mine not finished if index os out of array)\obj\Debug\net6.0\HW7.2.genruntimeconfig.cache
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (var 1 mine not finished if index os out of array)\obj\Debug\net6.0\ref\HW7.2.dll
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (void method of finding)\bin\Debug\net6.0\HW7.2.exe
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (void method of finding)\bin\Debug\net6.0\HW7.2.deps.json
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (void method of finding)\bin\Debug\net6.0\HW7.2.runtimeconfig.json
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (void method of finding)\bin\Debug\net6.0\HW7.2.dll
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (void method of finding)\bin\Debug\net6.0\HW7.2.pdb
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (void method of finding)\obj\Debug\net6.0\HW7.2.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (void method of finding)\obj\Debug\net6.0\HW7.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (void method of finding)\obj\Debug\net6.0\HW7.2.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (void method of finding)\obj\Debug\net6.0\HW7.2.AssemblyInfo.cs
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (void method of finding)\obj\Debug\net6.0\HW7.2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (void method of finding)\obj\Debug\net6.0\HW7.2.dll
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (void method of finding)\obj\Debug\net6.0\refint\HW7.2.dll
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (void method of finding)\obj\Debug\net6.0\HW7.2.pdb
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (void method of finding)\obj\Debug\net6.0\HW7.2.genruntimeconfig.cache
+C:\Users\User\Documents\GeekBrains\C sharp\Homework\HW7.2 (void method of finding)\obj\Debug\net6.0\ref\HW7.2.dll
