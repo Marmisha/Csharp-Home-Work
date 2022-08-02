@@ -49,7 +49,7 @@ int[,] MultiplyMatrix(int[,] matr1, int[,] matr2, int row, int column)
     int[,] resultMatrix = new int[row, column];
     for (int i = 0; i < matr1.GetLength(0); i++)
     {
-        for (int j = 0; j < matr1.GetLength(0); j++)
+        for (int j = 0; j < matr1.GetLength(1); j++)
             resultMatrix[i, j] = matr1[i, j] * matr2[i, j];
     }
     return resultMatrix;
